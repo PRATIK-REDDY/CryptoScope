@@ -1,0 +1,12 @@
+#sub-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sub-container a {
+    text-decoration: none;
+    color: rgb(62, 135, 199);
+    font-size: 18px;
+}
