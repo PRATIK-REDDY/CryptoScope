@@ -6,7 +6,7 @@ import Crypto from './components/Crypto/Crypto';
 function App() {
   return (
     <div style={{backgroundColor:"#070F2B", minHeight:"100vh"}} className="App">
-      <Crypto />
+      <Crypto />  
     </div>
   );
 }
